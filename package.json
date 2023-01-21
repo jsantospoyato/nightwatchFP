@@ -1,0 +1,21 @@
+{
+  "name": "nightwatchfp",
+  "version": "1.0.0",
+  "description": "My first project using Nightwatchjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightwatch",
+    "javascript",
+    "testing"
+  ],
+  "author": "Juan Santos Poyato",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^109.0.0",
+    "geckodriver": "^3.2.0",
+    "nightwatch": "^2.6.10"
+  }
+}
